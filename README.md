@@ -1,6 +1,6 @@
 # Spotify Smart Playlist Generator
 ---
-This is a simple Python program prompts the user to enter a search query for a playlist. The program ranks songs from playlists based on this search query and creates a user playlist from those rankings. This allows the user to search for, say, a genre of music such as alternative rock, and generate a playlist from playlists with similar titles to the user's search query.
+This is a simple Python program that prompts the user to enter a search query for a playlist. The program ranks songs from playlists based on this search query and creates a user playlist from those rankings. This allows the user to search for, say, a genre of music such as alternative rock, and generate a playlist from playlists with similar titles to the user's search query.
 
 # Setup
 ---
